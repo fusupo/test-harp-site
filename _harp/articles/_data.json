@@ -1,0 +1,15 @@
+{
+    "a-good-article": {
+        "title": "A Good Article",
+        "layout": false
+    },
+    "a-complicated-article": {
+        "title": "Another Article"
+    },
+    "a-third-article": {
+        "title": "Yet Another Article"
+    },
+    "article-a-fourth": {
+        "title": "Eat some more shit"
+    }
+}

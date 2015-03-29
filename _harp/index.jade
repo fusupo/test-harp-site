@@ -1,2 +1,4 @@
-h1 Welcome to Harp.
-h3 This is yours to own. Enjoy.
+div#whatever
+div#space
+  each article, slug in public.articles._data
+    != partial("_node", { title: article.title })
